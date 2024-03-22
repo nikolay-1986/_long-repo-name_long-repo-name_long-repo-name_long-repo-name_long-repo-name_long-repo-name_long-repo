@@ -7,3 +7,4 @@ release testing 05102022
 test 19122022 GITCL-3174
 TST-2 IT checking
 TST-1-regression-checks
+TST-1- checking the association commit with Jira issue by creating commit message with id of issue
