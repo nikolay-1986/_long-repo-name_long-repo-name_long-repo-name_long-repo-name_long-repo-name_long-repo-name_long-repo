@@ -11,3 +11,4 @@ TST-1 jd51 checking 2
 TST-1 checking for GIT5227
 RT-30 checking new commit in old tickets.
 TST-1 regression testing JD_106
+TST-1 regression testing JD_106_AWS
