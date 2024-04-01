@@ -26,3 +26,4 @@ TST-1 regression testing JD_27 #time 1h 20m
 TST-1 regression testing JD_55 #in-progress
 TST-1 regression testing JD_55 #label Regression
 TST-1 #comment regression testing JD_55 #label RT #done #time 15m
+TST-1 #comment regression testing #label RT_master #done #time 30m
