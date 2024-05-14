@@ -30,3 +30,4 @@ TST-1 #comment regression testing #label RT_master #done #time 30m
 TST-1 #asdasd
 TST-1 #comment regression testing #label RT2 #in-progress #time 30m
 TST-1 #wrongsmartcommit
+TST-2-test-for-GIT_4676
