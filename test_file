@@ -8,4 +8,27 @@ test 19122022 GITCL-3174
 TST-2 IT checking
 TST-1 jd51 checking
 TST-1 jd51 checking 2
-TST-1 checking for GIT5227 
+TST-1 checking for GIT5227
+RT-30 checking new commit in old tickets.
+TST-1 regression testing JD_106
+TST-1 regression testing JD_106_AWS
+TST-1 regression testing JD_116
+TST-1 regression testing JD_129
+TST-1 regression testing JD_129
+TST-1 regression testing JD_129 #3
+TST-1 regression testing JD_129 #4
+TST-1 regression testing JD_124
+TST-1 regression testing JD_131
+TST-1 regression testing JD_134
+TST-1 regression testing JD_135
+TST-1 regression testing JD_137
+TST-1 regression testing JD_27 #time 1h 20m
+TST-1 regression testing JD_55 #in-progress
+TST-1 regression testing JD_55 #label Regression
+TST-1 #comment regression testing JD_55 #label RT #done #time 15m
+TST-1 #comment regression testing #label RT_master #done #time 30m
+TST-1 #asdasd
+TST-1 #comment regression testing #label RT2 #in-progress #time 30m
+TST-1 #wrongsmartcommit
+TST-2-test-for-GIT_4676
+TST-3_commit_for GIT-5769
