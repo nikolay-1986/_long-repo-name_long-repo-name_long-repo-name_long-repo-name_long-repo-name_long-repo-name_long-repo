@@ -32,3 +32,4 @@ TST-1 #comment regression testing #label RT2 #in-progress #time 30m
 TST-1 #wrongsmartcommit
 TST-2-test-for-GIT_4676
 TST-3_commit_for GIT-5769
+TST-3_commit_for_decline_PR GIT-5769
