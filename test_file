@@ -33,3 +33,5 @@ TST-1 #wrongsmartcommit
 TST-2-test-for-GIT_4676
 TST-2-test-GIT_5938_2
 TST-10 testing indexing log by webhook for GIT_5875
+TST-11 testing of datetimeupdating on GIT_5875
+TST-11 #comment testing of datetimeupdating on GIT_5875 #in-progress #time 1h #label SMART_COMMIT_Checked
