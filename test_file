@@ -37,3 +37,4 @@ TST-11 testing of datetimeupdating on GIT_5875
 TST-11 #comment testing of datetimeupdating on GIT_5875 #in-progress #time 1h #label SMART_COMMIT_Checked
 TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT
 TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT#2
+TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT#3
