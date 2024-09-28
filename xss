@@ -1,0 +1,1 @@
+<script>alert("XSS at " + origin)</script>
