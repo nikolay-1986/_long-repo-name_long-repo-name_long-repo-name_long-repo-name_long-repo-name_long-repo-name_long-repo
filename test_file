@@ -49,3 +49,4 @@ TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_11
 TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_12
 TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_13
 TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_14
+TST-24 #comment testing on jira-bbb before_public_new_UI #time 3h #in-progress
