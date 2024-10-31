@@ -9,3 +9,44 @@ TST-2 IT checking
 TST-1 jd51 checking
 TST-1 jd51 checking 2
 TST-1 checking for GIT5227
+RT-30 checking new commit in old tickets.
+TST-1 regression testing JD_106
+TST-1 regression testing JD_106_AWS
+TST-1 regression testing JD_116
+TST-1 regression testing JD_129
+TST-1 regression testing JD_129
+TST-1 regression testing JD_129 #3
+TST-1 regression testing JD_129 #4
+TST-1 regression testing JD_124
+TST-1 regression testing JD_131
+TST-1 regression testing JD_134
+TST-1 regression testing JD_135
+TST-1 regression testing JD_137
+TST-1 regression testing JD_27 #time 1h 20m
+TST-1 regression testing JD_55 #in-progress
+TST-1 regression testing JD_55 #label Regression
+TST-1 #comment regression testing JD_55 #label RT #done #time 15m
+TST-1 #comment regression testing #label RT_master #done #time 30m
+TST-1 #asdasd
+TST-1 #comment regression testing #label RT2 #in-progress #time 30m
+TST-1 #wrongsmartcommit
+TST-2-test-for-GIT_4676
+TST-2-test-GIT_5938_2
+TST-10 testing indexing log by webhook for GIT_5875
+TST-11 testing of datetimeupdating on GIT_5875
+TST-11 #comment testing of datetimeupdating on GIT_5875 #in-progress #time 1h #label SMART_COMMIT_Checked
+TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT
+TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT#2
+TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT#3
+TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT_4
+TST-11 #comment testing of scripting on GIT_5875 #done #time 20h #label SCRIPT_5
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_6
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_7
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_8
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_9
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_10
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_11
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_12
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_13
+TST-11 #comment testing of scripting on master #done #time 20h #label SCRIPT_14
+TST-24 #comment testing on jira-bbb before_public_new_UI #time 3h #in-progress
